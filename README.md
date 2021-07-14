@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gonzalo Hernán!
 - 👀 I’m interested in manual/automation testing and frontend development
-- 🌱 I’m currently learning Python, Javascript and how to automate tasks with Selenium Webdriver.
+- 🌱 I’m currently learning Python and Javascript
 - 📫 How to reach me: ghhernan@gmail.com
 
 
